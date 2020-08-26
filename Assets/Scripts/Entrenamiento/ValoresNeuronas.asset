@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55ae39db70dbd845b43668056b22949, type: 3}
+  m_Name: ValoresNeuronas
+  m_EditorClassIdentifier: 
+  amount: 10
+  saved: 1
+  entrenamiento:
+  - intensidadDeseada: 0.6
+    intensidadObtenida: 0.8
+    fatiga: 0.8
+    incrementarCarga: 0.1
+    decrementarCarga: 0.9
+    descarga: 0.7
+  - intensidadDeseada: 0.6
+    intensidadObtenida: 0.6
+    fatiga: 0.4
+    incrementarCarga: 0.7
+    decrementarCarga: 0.1
+    descarga: 0.1
+  - intensidadDeseada: 0.7
+    intensidadObtenida: 0.6
+    fatiga: 0.4
+    incrementarCarga: 0.9
+    decrementarCarga: 0.1
+    descarga: 0.1
+  - intensidadDeseada: 0.6
+    intensidadObtenida: 0.8
+    fatiga: 0.5
+    incrementarCarga: 0.1
+    decrementarCarga: 0.9
+    descarga: 0.1
+  - intensidadDeseada: 0.6
+    intensidadObtenida: 1
+    fatiga: 0.5
+    incrementarCarga: 0.1
+    decrementarCarga: 0.9
+    descarga: 0.1
+  - intensidadDeseada: 0.8
+    intensidadObtenida: 0.8
+    fatiga: 0.9
+    incrementarCarga: 0.1
+    decrementarCarga: 0.7
+    descarga: 0.8
+  - intensidadDeseada: 0.8
+    intensidadObtenida: 0.8
+    fatiga: 0.7
+    incrementarCarga: 0.1
+    decrementarCarga: 0.3
+    descarga: 0.4
+  - intensidadDeseada: 0.7
+    intensidadObtenida: 0.7
+    fatiga: 0.9
+    incrementarCarga: 0.1
+    decrementarCarga: 0.5
+    descarga: 1
+  - intensidadDeseada: 0.7
+    intensidadObtenida: 0.7
+    fatiga: 1
+    incrementarCarga: 0.1
+    decrementarCarga: 0.5
+    descarga: 1
+  - intensidadDeseada: 0.8
+    intensidadObtenida: 0.5
+    fatiga: 0.1
+    incrementarCarga: 1
+    decrementarCarga: 0.1
+    descarga: 0.1
+  - intensidadDeseada: 0.8
+    intensidadObtenida: 0.7
+    fatiga: 0.5
+    incrementarCarga: 0.9
+    decrementarCarga: 0.1
+    descarga: 0.3
+  - intensidadDeseada: 0.7
+    intensidadObtenida: 0.5
+    fatiga: 0.4
+    incrementarCarga: 1
+    decrementarCarga: 0.1
+    descarga: 0.1
+  - intensidadDeseada: 0.7
+    intensidadObtenida: 0.4
+    fatiga: 0.4
+    incrementarCarga: 1
+    decrementarCarga: 0.1
+    descarga: 0.1
